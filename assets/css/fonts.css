@@ -1,0 +1,114 @@
+@font-face {
+    font-family: 'granesta';
+    src: url('../fonts/granesta-webfont.woff2') format('woff2'),
+         url('../fonts/granesta-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ethereal';
+    src: url('../fonts/ethereal-thin-webfont.woff2') format('woff2'),
+         url('../fonts/ethereal-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'black-r';
+    src: url('../fonts/black_ravens-webfont.woff2') format('woff2'),
+         url('../fonts/black_ravens-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'casanova';
+    src: url('../fonts/casanova_font_free-webfont.woff2') format('woff2'),
+         url('../fonts/casanova_font_free-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'geometria';
+    src: url('../fonts/geometria-webfont.woff2') format('woff2'),
+         url('../fonts/geometria-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'griloy';
+    src: url('../fonts/radomir_tinkov_-_gilroy-light-webfont.woff2') format('woff2'),
+         url('../fonts/radomir_tinkov_-_gilroy-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'griloy-extraBold';
+    src: url('../fonts/gilroy-extrabold-webfont.woff2') format('woff2'),
+         url('../fonts/gilroy-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'griloy-bold';
+    src: url('../fonts/radomir_tinkov_-_gilroy-extrabold-webfont.woff2') format('woff2'),
+         url('../fonts/radomir_tinkov_-_gilroy-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'monteserat';
+    src: url('../fonts/montserrat-regular-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'monteserat-black';
+    src: url('../fonts/montserrat-black-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'monteserat-bold';
+    src: url('../fonts/montserrat-bold-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'monteserat-medium';
+    src: url('../fonts/montserrat-medium-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'metropolis-semiBold';
+    src: url('../fonts/metropolis-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pt-serif';
+    src: url('../fonts/pt_serif-web-regular-webfont.woff2') format('woff2'),
+         url('../fonts/pt_serif-web-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pt-serif-bold';
+    src: url('../fonts/pt-serif.bold-webfont.woff2') format('woff2'),
+         url('../fonts/pt-serif.bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
